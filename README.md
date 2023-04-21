@@ -1,1 +1,1 @@
-Link to this site: [Survey-Form](ramyarsc.github.io/Survey-Form) [second](https://ramyarsc.github.io/Survey-Form/)
+Link to this site: [Survey-Form](https://ramyarsc.github.io/Survey-Form/)
