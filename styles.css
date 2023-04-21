@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Poltawski+Nowy&display=swap');
+
+body{
+  font-family: Poltawski Nowy;
+}
+
+html{
+  background-color: #F7D060;
+}
+#title{
+  text-align:center;
+}
+
+#description{
+  text-align: center;
+}
+
+#survey-form{
+  border: 2px solid;
+  background-color: #FF6D60;
+  border-radius: 10px;
+  padding: 20px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#survey-form div{
+  margin: auto;
+}
+
+#name-label, #email-label, #number-label, #board-label,#gender-label, #hobbies-label, #feedback-label{
+  padding: 10px;
+  font-size: 20px;
+}
+
+#name, #email, #number, #dropdown, #feedback{
+  border-radius: 5px;
+  width: 95%;
+  height:40px;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px 10px 15px 10px;
+}
+
+#dropdown{
+  text-align: center;
+}
+
+.checkbox, .radio{
+  margin-right: 10px
+}
+
+
+#submit{
+  border:none;
+  border-radius: 5px;
+  background-color: F3E99F;
+  width:20%;
+  height:30px;
+  margin:2px;
+  font-size: 15px
+}
